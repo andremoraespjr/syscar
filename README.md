@@ -126,7 +126,7 @@ Aqui você encontrará a interface Swagger que permite explorar e testar os endp
 
 ### **Clone o Repositório:**
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/andremoraespjr/syscar.git
 ```
 
 ### **Compile e Execute a Aplicação:**
